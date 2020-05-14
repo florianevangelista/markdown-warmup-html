@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+p {
+    color: red;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
